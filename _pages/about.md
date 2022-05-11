@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a [website]{https://www.youtube.com/}.
+This is the front page of a [website](https://www.youtube.com/).
