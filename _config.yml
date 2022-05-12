@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Senthurbavan Kirubaharan"
 title_separator          : "-"
 name                     : &name "name:Senthurbavan Kirubaharan"
-description              : &description "Research Engineer at Econsulate"
+description              : &description "Research Engineer at E-consulate"
 url                      : https://senthurbavan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "senthurbavan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Senthurbavan Kirubaharan"
   avatar           : "Profile.jpg"
-  bio              : "Research Engineer at Econsulate, Colombo, Sri Lanka"
+  bio              : "Research Engineer at E-consulate, Sri Lanka"
   location         : "Colombo, Sri Lanka"
   employer         :
   pubmed           : 
