@@ -34,12 +34,12 @@ Developed a GPS navigated mobile robot with microcontroller for Robot Design and
 [Arduino code](https://github.com/Senthurbavan/GPS_navigated_robot)
 
 <figure>
-  <img src='/images/obstacle-avoidance-robot-scaled.jpeg' width='100'> 
+  <img src='/images/obstacle-avoidance-robot-scaled.jpeg' width='100px'> 
   <figcaption>Robot with three ultrasonic sensors for obstacle avoidance</figcaption>
 </figure>
 
 <figure>
-  <iframe width="400" height="225" src="https://www.youtube.com/embed/7MHmC37A1u0" frameborder="0" allow="accelerometer; autoplay; clipboard-write;       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="400px" height="225px" src="https://www.youtube.com/embed/7MHmC37A1u0" frameborder="0" allow="accelerometer; autoplay; clipboard-write;       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <figcaption>White line detection, finding nearest bottle and move towards each nearest bottles</figcaption>
 </figure>
 
