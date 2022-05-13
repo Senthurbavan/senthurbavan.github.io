@@ -34,7 +34,7 @@ Developed a GPS navigated mobile robot with microcontroller for Robot Design and
 [Arduino code](https://github.com/Senthurbavan/GPS_navigated_robot)
 
 <figure>
-  <img src='/images/obstacle-avoidance-robot-scaled.jpeg' width='400'> 
+  <img src='/images/obstacle-avoidance-robot-scaled.jpeg' width='100'> 
   <figcaption>Robot with three ultrasonic sensors for obstacle avoidance</figcaption>
 </figure>
 
