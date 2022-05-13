@@ -33,8 +33,12 @@ Developed a GPS navigated mobile robot with microcontroller for Robot Design and
 
 [Arduino code](https://github.com/Senthurbavan/GPS_navigated_robot)
 
-<img src='/images/obstacle-avoidance-robot-scaled.jpeg' width='400'> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7MHmC37A1u0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure>
+  <img src='/images/obstacle-avoidance-robot-scaled.jpeg' width='400'> 
+  <figcaption>Robot with three ultrasonic sensors for obstacle avoidance</figcaption>
+</figure>
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/7MHmC37A1u0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Analog Line Following Robot
@@ -45,7 +49,7 @@ The aim of the project is to develop a line following robot without microcontrol
 
 <img src='/images/analog_robot.jpeg' width='400'>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CKTVevsehSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/CKTVevsehSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
