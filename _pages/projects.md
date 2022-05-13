@@ -40,7 +40,7 @@ Robot with three ultrasonic sensors for obstacle avoidance:
 
 White line detection, finding nearest bottle and move towards each nearest bottles:
 
-<iframe style="width:75%" src="https://www.youtube.com/embed/7MHmC37A1u0" frameborder="0" allow="accelerometer; autoplay; clipboard-write;     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="125" src="https://www.youtube.com/embed/7MHmC37A1u0" frameborder="0" allow="accelerometer; autoplay; clipboard-write;     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
