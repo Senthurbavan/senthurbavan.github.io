@@ -33,12 +33,10 @@ Developed a GPS navigated mobile robot with microcontroller for Robot Design and
 
 [Arduino code](https://github.com/Senthurbavan/GPS_navigated_robot)
 
-<div>
 <figure>
-  <img src='/images/obstacle-avoidance-robot-scaled.jpeg' width='100'> 
+  <img src='/images/obstacle-avoidance-robot-scaled.jpeg' style="width:50%"> 
   <figcaption>Robot with three ultrasonic sensors for obstacle avoidance</figcaption>
 </figure>
-</div>
 <figure>
   <iframe width="400" height="225" src="https://www.youtube.com/embed/7MHmC37A1u0" frameborder="0" allow="accelerometer; autoplay; clipboard-write;       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <figcaption>White line detection, finding nearest bottle and move towards each nearest bottles</figcaption>
@@ -51,7 +49,7 @@ The aim of the project is to develop a line following robot without microcontrol
 
 [PCB Design](https://github.com/Senthurbavan/Analog_line_following_robot_PCB)
 
-<img src='/images/analog_robot.jpeg' width='700'>
+<img src='/images/analog_robot.jpeg' width='400'>
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/CKTVevsehSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
