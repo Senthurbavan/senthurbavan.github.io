@@ -33,7 +33,8 @@ Robot with three ultrasonic sensors for obstacle avoidance:\
 <img src='/images/obstacle-avoidance-robot-scaled.jpeg' style="width:50%">\ 
 <!-- <p style="text-align:center;"><img src='/images/obstacle-avoidance-robot-scaled.jpeg' style="width:50%" class="center"></p>  -->
 
-White line detection, finding nearest bottle and move towards each nearest bottles:\
+White line detection, finding nearest bottle and move towards each nearest bottles:
+
 <iframe width="200" height="125" src="https://www.youtube.com/embed/7MHmC37A1u0" frameborder="0" allow="accelerometer; autoplay; clipboard-write;     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -45,8 +46,9 @@ The aim of the project is to develop a line following robot without microcontrol
 PCB design of the robot:\
 <img src='/images/analog_robot.jpeg' style="width:50%">\
 
-Robot in the track\
-<iframe style="width:50%" src="https://www.youtube.com/embed/CKTVevsehSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Robot in the track:
+
+<iframe style="width:75%" src="https://www.youtube.com/embed/CKTVevsehSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
