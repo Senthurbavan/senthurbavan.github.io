@@ -11,4 +11,9 @@ My research was on power optimization of autonomous mobile robot navigation in w
 
 K. Senthurbavan, Peshala Jayasekara & Dilan Weerakkody. Low Power FPGA-based Hardware Accelerator for Autonomous Navigation of Mobile Robots. In 2020 Australasian Conference on Robotics and Automation (ACRA) ([Paper link](https://ssl.linklings.net/conferences/acra/acra2020_proceedings/views/includes/files/pap104s1-file1.pdf))
 
+Overview of the system:
+<img src='/images/Overview.png' style="width:50%"> 
+Hardware Accelerator IP:
+<img src='/images/overview_hw_ip.png' style="width:50%"> 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gDYCPDyNlkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
