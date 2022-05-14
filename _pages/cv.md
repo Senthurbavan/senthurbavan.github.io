@@ -8,36 +8,47 @@ redirect_from:
 ---
 
 {% include base_path %}
+Click [here](https://github.com/Senthurbavan/senthurbavan.github.io/blob/master/files/Senthurbavan_CV.pdf) to download the CV.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Bachelor of the Science of Engineering in Electronic & Telecommunication Engineering with Honors, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - Present: Research Engineer
+  * E-consulate, affiliated with Intellisense Lab, University of Moratuwa, Sri Lanka
+  * Supervisors: Dr. Sulochana Sooriyaarachchi & Dr. Chandana Gamage
+  * Summary: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - 2021: Embedded Research Engineer
+  * SenzMate, Sri Lanka
+  * Summary: 
+
+* 2018: Embedded Research Intern
+  * SenzMate, Sri Lanka
+  * Summary:  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: English, Tamil
+* Programming: Python, C/C++, VHDL, MATLAB, LATEX 
+* Libraries: ROS, NumPy, TensorFlow
+* Microcontrollers: STM32, Atmel, EFM8, Arduino 
+* Others: FPGA design, PCB design
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Awards
+======
+* Dean’s List (2016, 2019)
+* Mahapola Higher Education Merit Scholarship (2016)
+
+Hobbies
+=====
+* Video Games
+* Learning Magic Tricks
