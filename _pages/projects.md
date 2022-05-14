@@ -11,6 +11,16 @@ The project mainly aims towards creating a low power-EEG amplifier which can be 
 [Digital End PCB design](https://github.com/Senthurbavan/EEG_amplifier_digitalEnd_PCB)\
 [Firmware Code](https://github.com/Senthurbavan/EEG_amplifier_firmware)
 
+Analog frontend PCB design:\
+<img src='/images/afe_design.png' style="width:75%">
+
+\
+Digital frontend PCB design:\
+<img src='/images/dfe_design.png' style="width:40%">
+
+\
+Digital frontend PCB:\
+<img src='/images/dfe_pcb.JPG' style="width:40%">
 
 ## Processor Design for Image Down-Sampling - 2018
 Designed a custom processor in FPGA for image down sampling. Instruction set architecture (ISR) is designed and verified with Matlab. The processor is implemented in FPGA, the image and instruction set to downsample an image by the factor 2 are sent to the FPGA by Matlab through UART interface, the results are sent back to Matlab and compared with a Matlab implementation of downsampling.
@@ -18,7 +28,7 @@ Designed a custom processor in FPGA for image down sampling. Instruction set arc
 [FPGA design and Matlab code](https://github.com/Senthurbavan/Image_sampling_processor_design)
 
 Schematic design of the Processor:\
-<img src='/images/fpga_sch.png' style="width:50%">
+<img src='/images/fpga_sch.png' style="width:75%">
 
 \
 Original and downsampled images:
