@@ -13,7 +13,9 @@ Click [here](../files/Senthurbavan_CV.pdf) to download the CV.
 Education
 ======
 Bachelor of the Science of Engineering in Electronic & Telecommunication Engineering with Honors
+
 University of Moratuwa, 2020
+
 Final year research on Power optimized navigation of mobile robots.
 
 Work experience
