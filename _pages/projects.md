@@ -17,6 +17,12 @@ Designed a custom processor in FPGA for image down sampling. Instruction set arc
 
 [FPGA design and Matlab code](https://github.com/Senthurbavan/Image_sampling_processor_design)
 
+Schematic design of the Processor:\
+<img src='/images/fpga_sch.png' style="width:50%">
+
+\
+Original and downsampled images:
+<img src='/images/fpga_op.png' style="width:75%">
 
 ## Automatic Doorbell - 2018
 Developed an automatic doorbell to automatically detect the presence of a person at doorstep. We used passive infrared (PIR) sensors to detect heat radiation from humans. A sensor, which is mounted on the door and a portable receiver with speaker to play sound are connected with WIFI to play a sound when someone is at the doorstep.
