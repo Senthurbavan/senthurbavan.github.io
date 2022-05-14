@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer at Econsulate, working in collaboration with Intellisense Lab at the University of Moratuwa, Sri Lanka.
+I am a research engineer at E-consulate, collaborating with Intellisense Lab at the University of Moratuwa, Sri Lanka.
 
-I am currently working on mobile robot exploration in an unknown environment. I am working on extending the current
-simulation work to a real-world implementation, mainly focusing on ROS navigation stack.
+I am currently working on mobile robot exploration in an unknown environment. The focus of my work is on developing an exploration strategy, robust navigation, and proper recovery behavior to unstuck the robot if it gets stuck near obstacles.
 
-Before joining Econsulate, I was a embedded research engineer at SenzMate. I worked on an initiative to serve the community by building an AI COVID-19 Wristband. It detects the hand washing pattern of the user and compare it to that of the WHO standard using IMU data, and the implementation was on C, in real-time.
+Before joining E-consulate, I was an embedded research engineer at SenzMate. I worked on an initiative to serve the community by building an AI COVID-19 Wristband. The purpose of the wristband is to detect the handwashing pattern of the user, compare it to that of the WHO standard and remind the user to wash hands periodically.
 
-I received my bachelors' degree in Electronic and Telecommunication Engineering from the University of Moratuwa, Sri Lanka in 2020.  
+I received my bachelor's degree in Electronic & Telecommunication Engineering from the University of Moratuwa, Sri Lanka in 2020.
+
