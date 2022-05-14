@@ -25,14 +25,14 @@ Developed an automatic doorbell to automatically detect the presence of a person
 
 
 ## GPS navigated Robot - 2017
-Developed a GPS navigated mobile robot with microcontroller for Robot Design and Competition module. The task was that the robot should navigate to a given GPS goal location in a playground while avoiding obstacles on the way to pick a metal ring in a white box at the destination. The boxes are placed in the center of a white circle drawn on the ground. The robot uses a color sensor to detect the white circle and the white box. 
+Developed a GPS navigated mobile robot wth microcontroller for Robot Design and Competition module. The task was that the robot should navigate to a given GPS goal location in a playground while avoiding obstacles on the way to pick a metal ring in a white box at the destination. The boxes are placed in the center of a white circle drawn on the ground. The robot uses a color sensor to detect the white circle and the white box. 
 
 [Arduino code](https://github.com/Senthurbavan/GPS_navigated_robot)
 
 Robot with three ultrasonic sensors for obstacle avoidance:\
-<img src='/images/obstacle-avoidance-robot-scaled.jpeg' style="width:50%">\ 
-<!-- <p style="text-align:center;"><img src='/images/obstacle-avoidance-robot-scaled.jpeg' style="width:50%" class="center"></p>  -->
-<br>
+<img src='/images/obstacle-avoidance-robot-scaled.jpeg' style="width:50%">
+
+\
 White line detection, finding nearest bottle and move towards each nearest bottles:
 <iframe width="200" height="125" src="https://www.youtube.com/embed/7MHmC37A1u0" frameborder="0" allow="accelerometer; autoplay; clipboard-write;     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -43,8 +43,9 @@ The aim of the project is to develop a line following robot without microcontrol
 [PCB Design](https://github.com/Senthurbavan/Analog_line_following_robot_PCB)
 
 PCB design of the robot:\
-<img src='/images/analog_robot.jpeg' style="width:50%">\
-<br>
+<img src='/images/analog_robot.jpeg' style="width:50%">
+
+\
 Robot in the track:
 <iframe width="200" height="125" src="https://www.youtube.com/embed/CKTVevsehSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
