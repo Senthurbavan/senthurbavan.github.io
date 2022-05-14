@@ -20,7 +20,7 @@ Digital frontend PCB design:\
 
 \
 Digital frontend PCB:\
-<img src='/images/dfe_pcb.JPG' style="width:40%">
+<img src='/images/dfe_pcb.jpg' style="width:40%">
 
 ## Processor Design for Image Down-Sampling - 2018
 Designed a custom processor in FPGA for image down sampling. Instruction set architecture (ISR) is designed and verified with Matlab. The processor is implemented in FPGA, the image and instruction set to downsample an image by the factor 2 are sent to the FPGA by Matlab through UART interface, the results are sent back to Matlab and compared with a Matlab implementation of downsampling.
