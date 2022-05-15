@@ -19,15 +19,15 @@ Click [here](../files/Senthurbavan_CV.pdf) to download the CV.
 * 2021 - Present: Research Engineer
   * E-consulate, affiliated with Intellisense Lab, University of Moratuwa, Sri Lanka
   * Supervisors: Dr. Sulochana Sooriyaarachchi & Dr. Chandana Gamage
-  * Summary: The Intellisense Lab focuses on building mobile robot system for exploration. I am working on extending the current simulation work to a real-world implementation, mainly focusing on ROS navigation stack.
+  * Summary: The Intellisense Lab focuses on building mobile robot systems for exploration. I am currently developing robust navigation components, testing those on Gazebo simulation with a custom-made robot, and focusing on building an exploration strategy. The development is on ROS and C++ 
 
 * 2020 - 2021: Embedded Research Engineer
   * SenzMate, Sri Lanka
-  * Summary: During the pandemic, I worked on an initiative to serve the community by building an AI COVID-19 Wristband. It detects the hand washing pattern of the user and compare it to that of the WHO standard using IMU data, and the implementation was on C, in real-time.
+  * Summary: During the pandemic, I worked on an initiative to serve the community by building an AI COVID-19 Wristband. It detects the hand washing pattern of the user using IMU data and compare it to that of the WHO standard, and reminds the user periodically to wash hands. The implementation was on C, in real-time.
 
 * 2018: Embedded Research Intern
   * SenzMate, Sri Lanka
-  * Summary: We developed a peer-to-peer bidirectional wireless communication module based on the LoRa protocol. The module works as a remote controller and virtual serial link. I was involved in the development of communication protocol for multi-point to multi-point reliable communication and firmware development.
+  * Summary: We developed a peer-to-peer bidirectional wireless communication module based on the LoRa protocol. The module works as a remote controller and virtual serial link. I was involved in the development of communication protocol for multi-point to multi-point reliable communication and firmware development in C.
   
 ## Skills
 * Languages: English, Tamil
