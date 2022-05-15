@@ -19,11 +19,11 @@ Click [here](../files/Senthurbavan_CV.pdf) to download the CV.
 * 2021 - Present: Research Engineer
   * E-consulate, affiliated with Intellisense Lab, University of Moratuwa, Sri Lanka
   * Supervisors: Dr. Sulochana Sooriyaarachchi & Dr. Chandana Gamage
-  * Summary: The Intellisense Lab focuses on building mobile robot systems for exploration. I am currently developing robust navigation components, testing those on Gazebo simulation with a custom-made robot, and focusing on building an exploration strategy. The development is on ROS and C++ 
+  * Summary: The Intellisense Lab focuses on building mobile robot systems for exploration. I am currently developing robust navigation components, testing those on Gazebo simulation with a custom-made robot, and focusing on building an exploration strategy. The development is on ROS and C++. 
 
 * 2020 - 2021: Embedded Research Engineer
   * SenzMate, Sri Lanka
-  * Summary: During the pandemic, I worked on an initiative to serve the community by building an AI COVID-19 Wristband. It detects the hand washing pattern of the user using IMU data and compare it to that of the WHO standard, and reminds the user periodically to wash hands. The implementation was on C, in real-time.
+  * Summary: During the pandemic, I worked on an initiative to serve the community by building an AI COVID-19 Wristband. It detects the handwashing pattern of the user using IMU data in real-time and compares it to that of the WHO standard, and reminds the user periodically to wash hands. The implementation was in C and Python.
 
 * 2018: Embedded Research Intern
   * SenzMate, Sri Lanka
