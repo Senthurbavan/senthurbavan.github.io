@@ -62,7 +62,7 @@ PCB design of the robot:\
 <img src='/images/analog_robot.jpeg' style="width:50%">
 
 \
-Robot in the track:
+Robot on the track:
 <iframe width="200" height="125" src="https://www.youtube.com/embed/CKTVevsehSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
