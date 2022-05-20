@@ -46,10 +46,10 @@ Click [here](../files/Senthurbavan_CV.pdf) to download the CV.
 * Mahapola Higher Education Merit Scholarship (2016)
 
 ## Certifications
-* Deep Learning Specialization (Coursera)[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BV5TZZPX3PQB)
-* Machine Learning (Coursera)[Certificate](https://www.coursera.org/account/accomplishments/certificate/PCG2HB9YATXV)
-* Robotics: Aerial Robotics (Coursera)[Certificate](https://www.coursera.org/account/accomplishments/certificate/YZBUVJRX5DVX)
-* Robotics: Computational Motion Planning (Coursera)[Certificate](https://www.coursera.org/account/accomplishments/certificate/94DANTPBY5DS)
+* Deep Learning Specialization (Coursera) [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BV5TZZPX3PQB)
+* Machine Learning (Coursera) [Certificate](https://www.coursera.org/account/accomplishments/certificate/PCG2HB9YATXV)
+* Robotics: Aerial Robotics (Coursera) [Certificate](https://www.coursera.org/account/accomplishments/certificate/YZBUVJRX5DVX)
+* Robotics: Computational Motion Planning (Coursera) [Certificate](https://www.coursera.org/account/accomplishments/certificate/94DANTPBY5DS)
 
 ## Hobbies
 * Video Games
