@@ -45,6 +45,9 @@ Click [here](../files/Senthurbavan_CV.pdf) to download the CV.
 * Dean’s List (2016, 2019)
 * Mahapola Higher Education Merit Scholarship (2016)
 
+## Certifications
+
+
 ## Hobbies
 * Video Games
 * Learning Magic Tricks
