@@ -65,7 +65,9 @@ PCB design of the robot:\
 Robot on the track:
 <iframe width="200" height="125" src="https://www.youtube.com/embed/CKTVevsehSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Other Projects
 
-
+### Alien Invation
+<img src='/images/pygame.gif' style="width:50%">
 
 
