@@ -65,7 +65,7 @@ PCB design of the robot:\
 Robot on the track:
 <iframe width="200" height="125" src="https://www.youtube.com/embed/CKTVevsehSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Other Projects
+## Other Fun Projects
 
 ### Alien Invation
 [Python code](https://github.com/Senthurbavan/Alien_Invasion)
