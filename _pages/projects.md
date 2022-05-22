@@ -68,6 +68,7 @@ Robot on the track:
 ## Other Projects
 
 ### Alien Invation
-<img src='/images/pygame.gif' style="width:50%">
+[Python code](https://github.com/Senthurbavan/Alien_Invasion)
+<img src='/images/pygame.gif' style="width:100%">
 
 
