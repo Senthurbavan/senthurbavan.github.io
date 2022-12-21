@@ -19,7 +19,7 @@ Click [here](../files/Senthurbavan_CV.pdf) to download the CV.
 * 2021 - Present: Research Engineer
   * E-consulate, affiliated with Intellisense Lab, University of Moratuwa, Sri Lanka
   * Supervisors: Dr. Sulochana Sooriyaarachchi & Dr. Chandana Gamage
-  * Summary: The Intellisense Lab focuses on building mobile robot systems for exploration of an unknown area. I am currently developing robust navigation components, and testing those with the simulation model I created for our custom-made robot in Gazebo simulation. The development is on ROS and C++. 
+  * Summary: The Intellisense Lab focuses on building mobile robot systems for the exploration of an unknown area. I built the SLAM system and developed navigation algorithms in ROS in C++. 
 
 * 2020 - 2021: Embedded Research Engineer
   * SenzMate, Sri Lanka
@@ -31,10 +31,10 @@ Click [here](../files/Senthurbavan_CV.pdf) to download the CV.
   
 ## Skills
 * Languages: English, Tamil
-* Programming: Python, C/C++, VHDL, MATLAB, LATEX 
-* Libraries: ROS, NumPy, TensorFlow
+* Programming: Python, C/C++, MATLAB, VHDL, LATEX 
+* Tools and Libraries: ROS, ROS2, NumPy, TensorFlow, Keras, Pandas, Matplotlib, Git
 * Microcontrollers: STM32, Atmel, EFM8, Arduino 
-* Others: FPGA design, PCB design
+* Others: STM32Cube, SolidWorks, Altium, Atmel Studio
 
 ## Publications
   <ul>{% for post in site.publications %}
