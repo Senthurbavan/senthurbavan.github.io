@@ -15,17 +15,17 @@ Click [here](../files/Senthurbavan_CV.pdf) to download the CV.
 * BSc in Electronic & Telecommunication Engineering with First class Honors, 2020 
 * Final year research on Power optimized navigation of mobile robots.
 
-## Work experience
+## Experience
 * 2021 - Present: Research Engineer
   * E-consulate, affiliated with Intellisense Lab, University of Moratuwa, Sri Lanka
   * Supervisors: Dr. Sulochana Sooriyaarachchi & Dr. Chandana Gamage
   * Summary: The Intellisense Lab focuses on building mobile robot systems for the exploration of an unknown area. I built the SLAM system and developed navigation algorithms in ROS in C++. 
 
-* 2020 - 2021: Embedded Research Engineer
+* 2020 - 2021: Research Engineer
   * SenzMate, Sri Lanka
   * Summary: During the pandemic, I worked on an initiative to serve the community by building an AI COVID-19 Wristband. It detects the handwashing pattern of the user using IMU data in real-time and compares it to that of the WHO standard, and reminds the user periodically to wash hands. The implementation was in C and Python.
 
-* 2018: Embedded Research Intern
+* 2018: Research Intern
   * SenzMate, Sri Lanka
   * Summary: We developed a peer-to-peer bidirectional wireless communication module based on the LoRa protocol. The module works as a remote controller and virtual serial link. I was involved in the development of communication protocol for multi-point to multi-point reliable communication and firmware development in C.
   
