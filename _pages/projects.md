@@ -23,7 +23,9 @@ Digital frontend PCB:\
 <img src='/images/dfe_pcb.jpg' style="width:40%"> -->
 
 ## Processor Design for Image Down-Sampling - 2018
-Designed a custom processor in FPGA for image down sampling. Instruction set architecture (ISR) is designed and verified with Matlab. The processor is implemented in FPGA, the image and instruction set to downsample an image by the factor 2 are sent to the FPGA by Matlab through UART interface, the results are sent back to Matlab and compared with a Matlab implementation of downsampling.
+<!-- I designed an instruction set architecture based on RISC-V and wrote an instruction set for downsampling a 256x256 image using the nearest neighbor downsampling and weighted average filter. I designed the microarchitecture of a processor and built the simulation of the processor in MATLAB. Finally, I implemented the design in an FPGA and verified it with MATLAB results. -->
+
+Designed a custom processor for image downsampling. Instruction set architecture was designed based on RISC-V and an instruction set was written for downsampling a 256x256 image using the nearest neighbor downsampling and weighted average filter. The ​​microarchitecture of a processor was designed and the simulation of the processor was built in MATLAB for verification. The processor was implemented in FPGA. The image and instruction set to downsample an image by factor 2 were sent to the FPGA by MATLAB through the UART interface for processing. The results were sent back to Matlab and compared with the MATLAB implementation of downsampling.
 
 [FPGA design and Matlab code](https://github.com/Senthurbavan/Image_sampling_processor_design)
 
